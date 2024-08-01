@@ -1,5 +1,6 @@
 fs = require('fs');
-past = require('path');
 inquirer = require('inquirer');
-svg = require('svg');
+
+const {Circle, Square, Triangle} = require('./lib/shapes');
+
 
