@@ -10,6 +10,8 @@ In this application I used node, jest and inquirer packages as well as JavaScrip
 
 To install the required package's run npm i in the terminal.
 
+Screenshot of test svg file I created: ![alt text](image.png)
+
 ## Usage
 Upon interaction the user will be prompted with several question:
 1. Enter a maximum of three alpha numeric characters.
